@@ -49,7 +49,7 @@ The Arduino sketch for this project is located in the [code/ directory](code/led
 A demonstration video showing the working project is included in this repository.
 
 📹 **Project Demonstration:**  
-[Click here to watch/download the demo video](video/)
+[Click here to watch/download the demo video](https://youtu.be/wfrPB3RoLPc)
 
 *(If the video does not preview directly on GitHub, please download it using the link above.)*
 
